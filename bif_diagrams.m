@@ -1,6 +1,8 @@
-%%%this script displays executable code with comments to explain the function of the line of code next to or below it.
-%%%comments are included for inhibition bifurcation diagrams and are very similar for a and k bifurcation diagrams.
-%% BIFURCATION DIAGRAMS WHEN CHANGING b
+%% BIFURCATION DIAGRAMS FOR a, b AND k
+
+%% TXT-FILES
+
+%BIFURCATION DIAGRAMS WHEN CHANGING b
 clear;
 %b values to scan through
 for b=[0.25,0.5,0.75,1.5]
@@ -92,7 +94,7 @@ for b=[0.25,0.5,0.75,1.5]
 end
 
 
-% BIFURCATION DIAGRAMS WHEN CHANGING a
+%BIFURCATION DIAGRAMS WHEN CHANGING a
 clear;
 for a=0%[0,1,1.25,1.75,3]
     
@@ -164,7 +166,7 @@ for a=0%[0,1,1.25,1.75,3]
     
 end
 
-% BIFURCATION DIAGRAMS WHEN CHANGING k
+%BIFURCATION DIAGRAMS WHEN CHANGING k
 clear;
 for k=[0.5,1.25,1.5,3]
     
