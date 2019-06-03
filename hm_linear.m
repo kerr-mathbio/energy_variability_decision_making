@@ -1,5 +1,6 @@
-%%%code in this script is produced with comments explaining what the line of code next to or below it does
 %% HEATMAPS FOR LINEAR LAMBDA
+
+%% TXT_FILES
 clear;
 %set a values to produce heatmaps for
 for a=[0,0.5,1,1.5,2,3]

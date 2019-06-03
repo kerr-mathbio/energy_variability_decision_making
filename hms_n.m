@@ -1,6 +1,8 @@
-%%%code in this script is produced with comments explaining what the line of code next to or below it does
-clear;
 %% HEATMAPS FOR SIGMOIDAL LAMBDA - VARYING n, a, b
+
+%% TXT-FILES
+
+clear;
 
 for n = [1,2,3,4]%
     %set activation values to produce heatmaps for

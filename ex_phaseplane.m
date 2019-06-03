@@ -1,5 +1,3 @@
-%%%code in this script is produced with comments explaining what the line of code next to or below it does
-
 %%%code for 1,2,3 or 4 stable steady states needs to be selected and the remaining commented out
 
 %pre-setting figure properties

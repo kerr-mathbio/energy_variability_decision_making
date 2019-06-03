@@ -1,4 +1,6 @@
-%%%code in this script is produced with comments explaining what the line of code next to or below it does
+%% HEATMAPS VARYING THETAS
+
+%% TXT-FILES
 
 %fsolve tolerances
 options = optimoptions('fsolve','Display','off','OptimalityTolerance',1e-12,'FunctionTolerance',1e-12,'StepTolerance',1e-12);
@@ -6,7 +8,6 @@ options = optimoptions('fsolve','Display','off','OptimalityTolerance',1e-12,'Fun
 %fixed parameter values for ODEs
 a=1;b=1;k=1;n=4;
 
-%% HEATMAPS VARYING THETAS
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %vary theta_a

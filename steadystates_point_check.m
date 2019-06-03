@@ -1,4 +1,4 @@
-%%%code in this script is produced with comments explaining what the line of code next to or below it does
+%% STEADY STATE CHECK AND STABILITY CHECK
 
 %parameter values for ODEs
 k=1;

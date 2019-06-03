@@ -1,3 +1,5 @@
+%%%code for each value of A* needs to be selected and the remaining commented out
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %bifurcation diagram time-dependant figures
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

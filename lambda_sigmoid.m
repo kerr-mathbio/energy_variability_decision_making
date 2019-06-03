@@ -1,3 +1,5 @@
+%% SIGMOID LAMBDA FUNCTION PLOT
+
 %pre-setting figure properties
 fn='Helvetica';fs_labels=16;fs_axis=16;wd=20;ht=18;
 

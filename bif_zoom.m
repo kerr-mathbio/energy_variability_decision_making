@@ -1,5 +1,6 @@
-%%%this script displays executable code with comments to explain the function of the line of code next to or below it.
-%% 1 -> 3 -> 2 RE-ENTRANT BEHAVIOUR
+%% TXT_FILES
+
+% 1 -> 3 -> 2 RE-ENTRANT BEHAVIOUR
 clear;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 a=3;b=1;
